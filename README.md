@@ -9,9 +9,7 @@ backend
 **NOTE: The frontend folder is in master Branch**
 
 
-![Screensh![Screenshot (458)](https://github.com/dhanashrighagare/E-commerce/assets/77435428/019ae426-cd9d-4121-a556-000db76479c0)
-
-ot (457)](https://github.com/dhanashrighagare/E-commerce/assets/77435428/1fda9e6a-2f8e-4585-9b14-d8c9e4976f6c)
+![Screenshot (457)](https://github.com/dhanashrighagare/E-commerce/assets/77435428/1fda9e6a-2f8e-4585-9b14-d8c9e4976f6c)
 
 ![Screenshot (458)](https://github.com/dhanashrighagare/E-commerce/assets/77435428/4b1fdc2b-7aba-4d1c-86c8-d66b1dd1a5c2)
 
